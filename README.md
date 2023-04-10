@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hernan!
-- 👀 I’m passionate about front end development, especially with ReactJS
+- 👀 I’m passionate about front end mobile development, especially with React Native
 - 📫 How to reach me: hberisso1@gmail.com
