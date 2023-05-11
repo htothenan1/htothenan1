@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hernan!
-- 👀 I’m passionate about front end mobile development, especially with React Native
+- 👀 I’m passionate about front end mobile development, especially with NextJS and TailwindCSS
 - 📫 How to reach me: hberisso1@gmail.com
