@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Hernan!
-- 👀 I’m passionate about front end development
+- 👀 I’m passionate about solving world issues with my heart and my brain
 - 📫 How to reach me: hberisso1@gmail.com
